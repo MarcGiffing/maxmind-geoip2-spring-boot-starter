@@ -1,0 +1,10 @@
+
+= Spring Boot Starter for Maxmind GeoIP2
+
+https://dev.maxmind.com/geoip/
+http://dev.maxmind.com/geoip/geoip2/geolite2/
+
+The main purpose of this project is to use it for country based rate limiting for the https://github.com/MarcGiffing/bucket4j-spring-boot-starter[Spring Boot Bucket4j Starter] project.
+
+
+
