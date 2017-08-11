@@ -1,0 +1,5 @@
+# AutoConfigurations
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.giffing.maxmind.geoip2.spring.boot.starter.config.MaxmindGeoIPAutoconfiguration\
+
+
